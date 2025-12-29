@@ -1,4 +1,4 @@
-Hi, I'm Andrew. I'm currently a senior at UChicago studying computer science and statistics. I'm currently interested in Python internals and computer systems.
+Hi, I'm Andrew. I'm a senior at UChicago studying computer science and statistics. I'm currently interested in Python internals and computer systems.
 
 <!--
 **ampribe/ampribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
